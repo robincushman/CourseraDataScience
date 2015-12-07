@@ -1,3 +1,4 @@
 # CourseraDataScience
-Coursera data science projects
-this is a sample ReadMe file.
+Coursera data science projects.  
+This is a sample ReadMe file.
+Typing information about myself.
